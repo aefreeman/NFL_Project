@@ -1,7 +1,4 @@
+numpy==1.16.*
+matplotlib==3.*
+seaborn==0.8.1
 pandas
-plotly
-dash_core_components
-dash_html_components
-dash
-jupyter_dash
-IPython
